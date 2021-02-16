@@ -1,0 +1,21 @@
+.display-box
+{
+  border:2px solid black;
+}
+
+.list-elements
+{
+  color: black;
+  list-style: none;
+  display: flex;
+  align-items: flex-start;
+}
+h1
+{
+  text-align: center;
+}
+span
+{
+  color: blue;
+  padding-left: 50px;
+}
